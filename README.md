@@ -1,5 +1,5 @@
-# conversor-katakana
-Pequeno projeto feito com Next
+# Sobre o projeto
+Pequeno projeto feito com Next, usando a api da [WanaKana](https://wanakana.com/).
 
 # Criando e inicializando um projeto
 * Criando:
