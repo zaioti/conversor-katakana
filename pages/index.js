@@ -40,6 +40,9 @@ return(
 	    summary {
 	      font-weight: bold;
 	    }
+            li {
+              font-size: 12px;
+            }
 	    p {
 	      text-align: center;
 	    }
